@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: testprmar6-1-database-config
+data:
+  VECTORDB_HOST: "testprmar6-1-database"
+  VECTORDB_PORT: ""
